@@ -1,8 +1,8 @@
 ---
-title: 'This is excluded'
+title: 'This should be excluded as well'
 description: 'Lorem ipsum dolor sit amet'
 pubDate: 'Jul 08 2022'
 heroImage: '/placeholder-hero.jpg'
 ---
 
-This is an excluded file
+This fails to render if not excluded!
